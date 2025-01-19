@@ -1,6 +1,6 @@
 # Generative-AI-Powered-Resume-Analyzer
 
-Here's the documentation for your **Generative AI-Powered Resume Analyzer** in Markdown format. You can save it as a `README.md` file or convert it into a PDF as needed.
+Below is the documentation for **Generative AI-Powered Resume Analyzer**
 
 ---
 
@@ -63,7 +63,7 @@ This project automates the process of extracting, analyzing, and scoring resume 
   - `1`: Basic understanding or theoretical knowledge.
 
 ### **Step 4: Batch Processing**
-- Processed all resumes in the given directory, ensuring efficient and parallelized execution for large datasets.
+- Processed all resumes in the folder, ensuring efficient and parallelized execution for large datasets.
 
 ### **Step 5: Output to Excel**
 - Compiled extracted data into a neatly formatted **Excel sheet** with the following fields:
