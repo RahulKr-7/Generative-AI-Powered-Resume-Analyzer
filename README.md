@@ -3,9 +3,6 @@
 Below is the documentation for **Generative AI-Powered Resume Analyzer**
 
 ---
-
-# Generative AI-Powered Resume Analyzer
-
 ## Overview
 This project automates the process of extracting, analyzing, and scoring resume data using advanced Generative AI techniques. It processes resumes in **PDF format**, extracts key information, and outputs the results into a neatly formatted **Excel sheet**. The solution leverages the power of Natural Language Processing (NLP) for high accuracy and scalability, meeting the demands of modern recruitment processes.
 
