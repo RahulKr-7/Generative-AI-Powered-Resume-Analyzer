@@ -128,9 +128,3 @@ This project automates the process of extracting, analyzing, and scoring resume 
 
 ---
 
-## Conclusion
-This solution demonstrates the power of **Generative AI** in automating and improving resume analysis, providing accurate, scalable, and innovative insights for modern recruitment needs.
-
----
-
-Let me know if you need any further refinements!
